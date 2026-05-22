@@ -1,0 +1,14 @@
+{
+  "ableton": {
+    "windows_executable": "C:\\ProgramData\\Ableton\\Live 12 Suite\\Program\\Ableton Live 12 Suite.exe",
+    "wsl_executable": "/mnt/c/ProgramData/Ableton/Live 12 Suite/Program/Ableton Live 12 Suite.exe",
+    "user_library_wsl": "/mnt/c/Users/Pc_r/Documents/Ableton/User Library",
+    "remote_scripts_wsl": "/mnt/c/Users/Pc_r/AppData/Roaming/Ableton/Live 12.0/Preferences/User Remote Scripts",
+    "osc_host": "127.0.0.1",
+    "osc_port": 11000,
+    "notes": [
+      "No Ableton OSC or remote-script bridge has been detected yet.",
+      "Use this config as the base for the first real Ableton control integration."
+    ]
+  }
+}
